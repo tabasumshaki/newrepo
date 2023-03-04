@@ -17,21 +17,23 @@ public class ForLoop_Demo {
 		for(int i = 1; i<=10; i++)
 		{System.out.println("I love you");}
 		
-		System.out.println("Starts");
-		for(int i = 1; i<=10; i++)
-		{System.out.println("I love you");}
-		System.out.println("Ends!!");
+	//	System.out.println("Starts");
+	//	for(int i = 1; i<=10; i++)
+	//	{System.out.println("I love you");}
+	//	System.out.println("Ends!!");
 		
 		// so java will run code and when it gets a loop will complete the loop logic then go run other line
 		
 		
 		System.out.println("Starts");
+		
 		for(int i = 1; i<=3; i++)
 		{System.out.println( i + " I am from brooklyn");}
+		
 		System.out.println("Ends!!");
 		
 		/*action item 
-		 * System.out.println(" I am from brooklyn" + variable)
+		 * System.out.println(" I am from " + variable)
 		 * 3 times loop
 		 * 
 		 * syntax for while:
@@ -52,7 +54,11 @@ public class ForLoop_Demo {
 		 * 
 		 */
 		
+		String city = "brooklyn";
+		int [] number= {1,2,3,4,5};
 		
+		for (int i = 1; i<=number.length; i++)
+		{System.out.println("I am from "+ number);}
 		
 		
 		
