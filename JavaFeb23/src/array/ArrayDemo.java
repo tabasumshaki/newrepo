@@ -3,7 +3,7 @@ package array;
 public class ArrayDemo {
 
 	public static void main(String[] args) {
-		
+		//this is an one dynamentioanl array
 		// declaring array 
 		String[] myArray = new String[3];
 		
