@@ -12,9 +12,10 @@ public class Question05_WhileLoop {
 		int sum = 0;
 		
 		int i = 0;
+		sum += i;
 		while (i<n.length) {
 			
-			System.out.println(sum += i);
+			System.out.println(i);
 			i++;
 			}
 
