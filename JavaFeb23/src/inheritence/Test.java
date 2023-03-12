@@ -10,7 +10,7 @@ public class Test implements InterfaceDemo{
 		
 		
 		ConstructorDemo obj1 = new ConstructorDemo("Masud", 1);
-		obj1.setName("Masud");
+	//	obj1.setName("Masud");
 		System.out.println(obj1.getName()); 
 		
 	}

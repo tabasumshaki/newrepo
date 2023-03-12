@@ -10,7 +10,7 @@ public class calculator {
 		int c = a + b;
 		
 		return c; 
-		System.out.println("");
+		//System.out.println("");
 			
 	}
 	
