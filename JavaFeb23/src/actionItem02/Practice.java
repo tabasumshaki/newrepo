@@ -3,7 +3,7 @@ package actionItem02;
 public class Practice {
 
 	public static void main(String[] args) {
-		
+		// added comment 
 		
 		// for loop
 	int sum = 0;	
